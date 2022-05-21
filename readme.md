@@ -4,7 +4,7 @@ This is our Game Dev Repository for Interview task takers.
 
 # Task 1
 
-Quick Mario Replica
+Create Quick Mario Replica in time limit of 1 hour.
 
 Try to create 2D scene where:
 
