@@ -4,7 +4,7 @@ This is our Game Dev Repository for Interview task takers.
 
 # Task 1
 
-QUick Mario Replica
+Quick Mario Replica
 
 Try to create 2D scene where:
 
